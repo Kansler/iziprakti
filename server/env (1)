@@ -1,0 +1,5 @@
+DB_HOST=sql11.freemysqlhosting.net
+DB_USER=sql11414823
+DB_PASS=3ZETe8yGRK
+DB_DATABASE=sql11414823
+DB_DIALECT=mysql
